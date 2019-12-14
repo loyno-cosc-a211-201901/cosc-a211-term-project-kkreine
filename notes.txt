@@ -1,0 +1,12 @@
+Fri Dec 13 19:06:22 CST 2019
+merge problems, I will straighten
+
+Fri Dec 13 19:08:49 CST 2019
+warning at line 743, suspect the message won't be set correctly
+
+ReineFinalProject.cpp:743:23: warning: equality comparison result unused [-Wunused-comparison]
+        goodbyeString == "I love you, Jrr, and good-bye.";
+        ~~~~~~~~~~~~~~^~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+ReineFinalProject.cpp:743:23: note: use '=' to turn this equality comparison into an assignment
+        goodbyeString == "I love you, Jrr, and good-bye.";
+
